@@ -1,0 +1,418 @@
+[
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout5.xml",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\layout5.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\04dc9dd2063872ef6041c23428c42398718e4fa6\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bg_edit_2.xml",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\selector_bg_edit_2.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qrcode1.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\qrcode1.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\date.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\date.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about_icon_facebook.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\5bb06cb357d6e8d7542227d796e75deb6b35f5ad\\output\\res\\drawable\\about_icon_facebook.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qrcode2.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\qrcode2.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\04dc9dd2063872ef6041c23428c42398718e4fa6\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\04dc9dd2063872ef6041c23428c42398718e4fa6\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout4.xml",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\layout4.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iuser.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\iuser.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ipassword.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\ipassword.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\04dc9dd2063872ef6041c23428c42398718e4fa6\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\activity.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\activity.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image3.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\image3.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about_icon_github.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\5bb06cb357d6e8d7542227d796e75deb6b35f5ad\\output\\res\\drawable\\about_icon_github.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\help.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\bf9b658e7def782a32a131061d28c5dc4c3280ef\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout6.xml",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\layout6.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\correct.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\correct.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_logo.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\login_logo.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\news.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\news.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_input_cursor_2.xml",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\bg_input_cursor_2.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about_icon_email.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\5bb06cb357d6e8d7542227d796e75deb6b35f5ad\\output\\res\\drawable\\about_icon_email.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image2.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\image2.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_shape.xml",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\bt_shape.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iregister.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\iregister.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bg_edit.xml",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\selector_bg_edit.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smvec_logo.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\smvec_logo.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout1.xml",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\layout1.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mdtp_material_button_background.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\134fb15f5a3fa715db50c4558dd5716affb88193\\output\\res\\drawable\\mdtp_material_button_background.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\createcolor.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\createcolor.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout7.xml",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\layout7.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_aptigo.PNG",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\logo_aptigo.PNG"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_bg.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\main_bg.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\state_list_animator_z.xml",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\state_list_animator_z.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about_icon_google_play.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\5bb06cb357d6e8d7542227d796e75deb6b35f5ad\\output\\res\\drawable\\about_icon_google_play.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dat1.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\dat1.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\bf9b658e7def782a32a131061d28c5dc4c3280ef\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icpassword.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\icpassword.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\signup_edittext.xml",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\signup_edittext.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emaili.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\emaili.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout10.xml",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\layout10.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mdtp_done_background_color.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\134fb15f5a3fa715db50c4558dd5716affb88193\\output\\res\\drawable\\mdtp_done_background_color.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mdtp_material_button_selected.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\134fb15f5a3fa715db50c4558dd5716affb88193\\output\\res\\drawable\\mdtp_material_button_selected.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_shape_2.xml",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\bt_shape_2.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about_icon_link.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\5bb06cb357d6e8d7542227d796e75deb6b35f5ad\\output\\res\\drawable\\about_icon_link.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\signup_button.xml",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\signup_button.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mdtp_done_background_color_dark.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\134fb15f5a3fa715db50c4558dd5716affb88193\\output\\res\\drawable\\mdtp_done_background_color_dark.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f0fda60c430d6805b28490abaa55bc42af31427c\\output\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about_icon_twitter.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\5bb06cb357d6e8d7542227d796e75deb6b35f5ad\\output\\res\\drawable\\about_icon_twitter.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_edittext.xml",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\login_edittext.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout9.xml",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\layout9.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about_icon_youtube.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\5bb06cb357d6e8d7542227d796e75deb6b35f5ad\\output\\res\\drawable\\about_icon_youtube.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_button.xml",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\login_button.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout8.xml",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\layout8.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout2.xml",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\layout2.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\create.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\create.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about_icon_instagram.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\5bb06cb357d6e8d7542227d796e75deb6b35f5ad\\output\\res\\drawable\\about_icon_instagram.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_input_cursor.xml",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\bg_input_cursor.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\bf9b658e7def782a32a131061d28c5dc4c3280ef\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\04dc9dd2063872ef6041c23428c42398718e4fa6\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speech.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\speech.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\bf9b658e7def782a32a131061d28c5dc4c3280ef\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image1.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable\\image1.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\bf9b658e7def782a32a131061d28c5dc4c3280ef\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\04dc9dd2063872ef6041c23428c42398718e4fa6\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\04dc9dd2063872ef6041c23428c42398718e4fa6\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\04dc9dd2063872ef6041c23428c42398718e4fa6\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mdtp_material_button_background.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\134fb15f5a3fa715db50c4558dd5716affb88193\\output\\res\\drawable-v21\\mdtp_material_button_background.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a592eaba00d76af2888c404c9204baf9fce166b7\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mdtp_material_button_selected.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\134fb15f5a3fa715db50c4558dd5716affb88193\\output\\res\\drawable-v21\\mdtp_material_button_selected.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\04dc9dd2063872ef6041c23428c42398718e4fa6\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    }
+]

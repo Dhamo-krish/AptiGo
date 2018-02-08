@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.hp.test"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_aptigo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_aptigo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.hp.test.New_UI_HHS.About" />
+        <activity android:name="com.example.hp.test.Splash" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.hp.test.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name="com.example.hp.test.login"
+            android:theme="@style/AppTheme.Login" >
+        </activity>
+        <activity android:name="com.example.hp.test.TestPage.testpage" />
+        <activity android:name="com.example.hp.test.Signup" />
+        <activity android:name="com.example.hp.test.New_UI_HHS.User.pages.User_home2" />
+        <activity android:name="com.example.hp.test.New_UI_HHS.Login.New_login" >
+        </activity>
+        <activity
+            android:name="com.example.hp.test.New_UI_HHS.Register.New_register"
+            android:theme="@style/AppTheme.Login" />
+        <activity android:name="com.example.hp.test.New_UI_HHS.User.pages.User_Home" />
+        <activity android:name="com.example.hp.test.New_UI_HHS.Admin.Admin_Home" />
+        <activity android:name="com.example.hp.test.New_UI_HHS.Admin.Admin_login" />
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.1.0" />
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.example.hp.test.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="android.arch.lifecycle.VERSION"
+            android:value="27.0.0-SNAPSHOT" />
+    </application>
+
+</manifest>

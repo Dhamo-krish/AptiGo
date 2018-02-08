@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.hp.test">
+
+    <uses-sdk android:minSdkVersion="18" android:targetSdkVersion="25"></uses-sdk>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_aptigo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_aptigo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity android:name=".New_UI_HHS.About"></activity>
+
+        <activity android:name=".Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+
+        </activity>
+        <activity android:name=".login"
+            android:theme="@style/AppTheme.Login">
+        </activity>
+        <activity android:name=".TestPage.testpage"></activity>
+        <activity android:name=".Signup"></activity>
+
+
+        <activity android:name=".New_UI_HHS.User.pages.User_home2"></activity>
+
+        <activity android:name=".New_UI_HHS.Login.New_login">
+
+        </activity>
+        <activity android:name=".New_UI_HHS.Register.New_register"
+            android:theme="@style/AppTheme.Login"></activity>
+        <activity android:name=".New_UI_HHS.User.pages.User_Home"></activity>
+        <activity android:name=".New_UI_HHS.Admin.Admin_Home"></activity>
+
+        <activity android:name=".New_UI_HHS.Admin.Admin_login"></activity>
+    </application>
+
+</manifest>

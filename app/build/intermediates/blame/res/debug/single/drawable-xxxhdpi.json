@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_email_outline_grey600_24dp.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_email_outline_grey600_24dp.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\about_icon_copy_right.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\about_icon_copy_right.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_cart_outline_grey600_24dp.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_cart_outline_grey600_24dp.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_home_outline_grey600_24dp.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_home_outline_grey600_24dp.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\plus_x.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable-xxxhdpi\\plus_x.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\plus.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable-xxxhdpi\\plus.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_logout_grey600_24dp.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_logout_grey600_24dp.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_account_outline_grey600_24dp.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_account_outline_grey600_24dp.png"
+    }
+]

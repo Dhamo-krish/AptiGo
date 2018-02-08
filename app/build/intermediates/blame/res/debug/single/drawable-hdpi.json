@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_aptigo.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable-hdpi\\ic_action_aptigo.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cart_outline_grey600_24dp.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable-hdpi\\ic_cart_outline_grey600_24dp.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_logout_grey600_24dp.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable-hdpi\\ic_logout_grey600_24dp.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable-hdpi\\ic_menu.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_dots.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable-hdpi\\ic_dots.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\about_icon_copy_right.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\about_icon_copy_right.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_email_outline_grey600_24dp.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable-hdpi\\ic_email_outline_grey600_24dp.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_home_outline_grey600_24dp.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable-hdpi\\ic_home_outline_grey600_24dp.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_account_outline_grey600_24dp.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\drawable-hdpi\\ic_account_outline_grey600_24dp.png"
+    }
+]

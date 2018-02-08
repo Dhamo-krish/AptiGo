@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_aptigo.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_aptigo.png"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">AptiGo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_admin_nav">adminNav</string>
+    <string name="date">Date And Duration</string>
+    <string name="login">Login</string>
+    <string name="regno">Register Number</string>
+    <string name="Password">Password</string>
+    <string name="go">Login</string>
+    <string name="forgot_your_password"><u>Forgot your password?</u></string>
+    <string name="register">Register</string>
+    <string name="repeat_password">Confirm Password</string>
+    <string name="next">Register</string>
+    <string name="email">Email Address</string>
+    <string name="fullname">Full Name</string>
+    <string name="dept">Department</string>
+    <string name="year">Year of Study</string>
+
+    <string name="account_balance">Account Balance</string>
+    <string name="balance_currency">₹</string>
+    <string name="balance_amount">0.00</string>
+
+    <string name="dashboard">DASHBOARD</string>
+    <string name="myprofile">MY PROFILE</string>
+    <string name="events">EVENTS</string>
+    <string name="logout">LOGOUT</string>
+    <string name="navtext">Dashboard</string>
+
+    <string name="g1">1. Make sure you have a good internet connection.</string>
+    <string name="g2">2. Do not press Home button during the test.</string>
+    <string name="g3">3. Click the SUBMIT button to submit your exam. Do not use DONE key in the soft keyboard for submitting.</string>
+    <string name="g4">4. Avoid minimizing the application to search for answers outside.</string>
+    <string name="g5">5. Make sure you complete the test on or before the given time.</string>
+
+    <string name="timer">00:00:00</string>
+    <string name="g6">6. In case of any crashes during the Test, please contact the ADMIN to redirect you through further process.</string>
+    <string name="g7">7. Make sure you have selected all the answers before clicking the submit button.</string>
+
+    <string name="copy_right">Copyrights © %1$d</string>
+
+
+</resources>

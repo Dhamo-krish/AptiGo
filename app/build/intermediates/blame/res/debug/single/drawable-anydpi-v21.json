@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\04dc9dd2063872ef6041c23428c42398718e4fa6\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\about_icon_copy_right.xml",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\about_icon_copy_right.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\04dc9dd2063872ef6041c23428c42398718e4fa6\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    }
+]

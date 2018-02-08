@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\menu\\admin_nav.xml",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\menu\\admin_nav.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\menu\\user_nav.xml",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\menu\\user_nav.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_admin_nav_drawer.xml",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\menu\\activity_admin_nav_drawer.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_user_nav_drawer.xml",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\menu\\activity_user_nav_drawer.xml"
+    },
+    {
+        "merged": "D:\\Test-20180208T033153Z-001\\Test\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Test-20180208T033153Z-001\\Test\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]
